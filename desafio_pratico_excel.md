@@ -53,4 +53,3 @@ Em um espaço separado (pode ser ao lado da tabela principal ou no topo), crie u
 * **Design Limpo e Profissional:** Não faça um "carnaval" de cores. A criatividade aqui significa usar tons e visuais corporativos que guiem os olhos do usuário para o que importa (os problemas e os recordes). Use paletas sóbrias.
 * **Completude:** O arquivo final deve ter os 100 registros solicitados e todas as premissas do enunciado cumpridas.
 
-**Mão na massa! O prazo de entrega do seu relatório é até o final da aula.**
